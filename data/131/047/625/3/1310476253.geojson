@@ -230,8 +230,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        85633135,
-        85682963
+        85633135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,8 +242,7 @@
         {
             "continent_id":102191581,
             "country_id":85633135,
-            "locality_id":1310476253,
-            "region_id":85682963
+            "locality_id":1310476253
         }
     ],
     "wof:id":1310476253,
@@ -256,7 +254,7 @@
     ],
     "wof:lastmodified":1596485119,
     "wof:name":"Saba",
-    "wof:parent_id":85682963,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
     "wof:superseded_by":[],
